@@ -1,0 +1,1190 @@
+purchase_id,player_id,purchase_date,item_name,item_category,price_usd,platform,country
+T0000000,P00009,2024-03-31,VIP Bundle,bundle,14.99,android,GB
+T0000001,P00009,2024-03-31,VIP Bundle,bundle,14.99,android,GB
+T0000002,P00009,2024-03-31,Rare Skin,cosmetic,3.99,android,GB
+T0000003,P00042,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000004,P00042,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000005,P00042,2024-03-06,Starter Bundle,bundle,2.99,android,US
+T0000006,P00042,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000007,P00042,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000008,P00042,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000009,P00042,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000010,P00042,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000011,P00042,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000012,P00042,2024-03-18,Emote Pack,cosmetic,1.99,android,US
+T0000013,P00042,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000014,P00042,2024-03-04,Gem Pack L,gems,9.99,android,US
+T0000015,P00042,2024-02-18,Legend Skin,cosmetic,7.99,android,US
+T0000016,P00042,2024-02-23,Gem Pack M,gems,4.99,android,US
+T0000017,P00042,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000018,P00047,2024-03-31,Starter Bundle,bundle,2.99,android,IN
+T0000019,P00047,2024-02-25,Starter Bundle,bundle,2.99,android,IN
+T0000020,P00047,2024-03-31,VIP Bundle,bundle,14.99,android,IN
+T0000021,P00047,2024-02-13,Rare Skin,cosmetic,3.99,android,IN
+T0000022,P00047,2024-03-31,Gem Pack XL,gems,19.99,android,IN
+T0000023,P00047,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000024,P00047,2024-03-30,Gem Pack M,gems,4.99,android,IN
+T0000025,P00047,2024-03-31,Rare Skin,cosmetic,3.99,android,IN
+T0000026,P00047,2024-02-26,VIP Bundle,bundle,14.99,android,IN
+T0000027,P00047,2024-02-14,Gem Pack XL,gems,19.99,android,IN
+T0000028,P00047,2024-03-31,Legend Skin,cosmetic,7.99,android,IN
+T0000029,P00047,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0000030,P00047,2024-02-25,Gem Pack L,gems,9.99,android,IN
+T0000031,P00047,2024-02-25,Gem Pack L,gems,9.99,android,IN
+T0000032,P00047,2024-03-31,Rare Skin,cosmetic,3.99,android,IN
+T0000033,P00065,2024-03-31,Gem Pack L,gems,9.99,ios,IN
+T0000034,P00065,2024-02-28,Gem Pack XL,gems,19.99,ios,IN
+T0000035,P00065,2024-02-10,Starter Bundle,bundle,2.99,ios,IN
+T0000036,P00065,2024-02-25,Stumble Pass Monthly,season_pass,4.99,ios,IN
+T0000037,P00088,2024-03-10,Gem Pack L,gems,9.99,ios,TR
+T0000038,P00088,2024-03-31,Gem Pack S,gems,0.99,ios,TR
+T0000039,P00088,2024-03-31,Legend Skin,cosmetic,7.99,ios,TR
+T0000040,P00088,2024-03-31,Gem Pack S,gems,0.99,ios,TR
+T0000041,P00103,2024-03-31,VIP Bundle,bundle,14.99,android,IN
+T0000042,P00103,2024-02-18,Gem Pack L,gems,9.99,android,IN
+T0000043,P00103,2024-02-10,Gem Pack S,gems,0.99,android,IN
+T0000044,P00103,2024-03-31,Starter Bundle,bundle,2.99,android,IN
+T0000045,P00103,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000046,P00103,2024-02-22,Emote Pack,cosmetic,1.99,android,IN
+T0000047,P00125,2024-03-31,Emote Pack,cosmetic,1.99,android,ID
+T0000048,P00125,2024-03-31,Legend Skin,cosmetic,7.99,android,ID
+T0000049,P00125,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000050,P00125,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000051,P00125,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0000052,P00125,2024-03-31,Gem Pack XL,gems,19.99,android,ID
+T0000053,P00125,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000054,P00125,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000055,P00135,2024-02-22,Gem Pack XL,gems,19.99,ios,BR
+T0000056,P00135,2024-03-02,Gem Pack S,gems,0.99,ios,BR
+T0000057,P00135,2024-03-30,VIP Bundle,bundle,14.99,ios,BR
+T0000058,P00135,2024-01-31,Emote Pack,cosmetic,1.99,ios,BR
+T0000059,P00135,2024-02-07,Emote Pack,cosmetic,1.99,ios,BR
+T0000060,P00135,2024-02-07,Gem Pack L,gems,9.99,ios,BR
+T0000061,P00135,2024-02-12,Gem Pack M,gems,4.99,ios,BR
+T0000062,P00135,2024-03-31,VIP Bundle,bundle,14.99,ios,BR
+T0000063,P00135,2024-02-10,Gem Pack XL,gems,19.99,ios,BR
+T0000064,P00135,2024-03-31,Starter Bundle,bundle,2.99,ios,BR
+T0000065,P00135,2024-02-25,Gem Pack L,gems,9.99,ios,BR
+T0000066,P00145,2024-03-31,Rare Skin,cosmetic,3.99,ios,US
+T0000067,P00145,2024-03-31,Legend Skin,cosmetic,7.99,ios,US
+T0000068,P00145,2024-03-18,Stumble Pass Monthly,season_pass,4.99,ios,US
+T0000069,P00166,2024-03-14,Emote Pack,cosmetic,1.99,android,BR
+T0000070,P00166,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000071,P00166,2024-03-08,Gem Pack L,gems,9.99,android,BR
+T0000072,P00166,2024-03-17,Emote Pack,cosmetic,1.99,android,BR
+T0000073,P00166,2024-03-20,Emote Pack,cosmetic,1.99,android,BR
+T0000074,P00166,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000075,P00166,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000076,P00166,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000077,P00166,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000078,P00178,2024-03-31,Starter Bundle,bundle,2.99,android,FR
+T0000079,P00178,2024-03-31,Emote Pack,cosmetic,1.99,android,FR
+T0000080,P00178,2024-03-10,VIP Bundle,bundle,14.99,android,FR
+T0000081,P00178,2024-03-22,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000082,P00178,2024-03-31,Legend Skin,cosmetic,7.99,android,FR
+T0000083,P00180,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0000084,P00180,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000085,P00180,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0000086,P00180,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000087,P00180,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000088,P00180,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000089,P00180,2024-03-25,Gem Pack XL,gems,19.99,android,BR
+T0000090,P00180,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0000091,P00180,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000092,P00182,2024-03-31,Gem Pack M,gems,4.99,android,TR
+T0000093,P00182,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000094,P00182,2024-03-31,Gem Pack XL,gems,19.99,android,TR
+T0000095,P00182,2024-03-31,Legend Skin,cosmetic,7.99,android,TR
+T0000096,P00182,2024-03-31,Gem Pack S,gems,0.99,android,TR
+T0000097,P00182,2024-03-10,Starter Bundle,bundle,2.99,android,TR
+T0000098,P00182,2024-03-31,Emote Pack,cosmetic,1.99,android,TR
+T0000099,P00182,2024-03-26,Starter Bundle,bundle,2.99,android,TR
+T0000100,P00182,2024-03-27,Gem Pack XL,gems,19.99,android,TR
+T0000101,P00182,2024-03-31,Legend Skin,cosmetic,7.99,android,TR
+T0000102,P00199,2024-03-31,Rare Skin,cosmetic,3.99,android,MX
+T0000103,P00199,2024-03-17,Starter Bundle,bundle,2.99,android,MX
+T0000104,P00199,2024-03-31,VIP Bundle,bundle,14.99,android,MX
+T0000105,P00199,2024-03-31,Legend Skin,cosmetic,7.99,android,MX
+T0000106,P00199,2024-03-31,Rare Skin,cosmetic,3.99,android,MX
+T0000107,P00199,2024-03-09,Rare Skin,cosmetic,3.99,android,MX
+T0000108,P00199,2024-03-10,Gem Pack L,gems,9.99,android,MX
+T0000109,P00199,2024-03-28,Emote Pack,cosmetic,1.99,android,MX
+T0000110,P00199,2024-03-31,Rare Skin,cosmetic,3.99,android,MX
+T0000111,P00199,2024-03-15,Stumble Pass Monthly,season_pass,4.99,android,MX
+T0000112,P00207,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,GB
+T0000113,P00207,2024-03-31,Gem Pack XL,gems,19.99,ios,GB
+T0000114,P00207,2024-03-31,Gem Pack M,gems,4.99,ios,GB
+T0000115,P00207,2024-03-31,Gem Pack XL,gems,19.99,ios,GB
+T0000116,P00207,2024-03-31,Emote Pack,cosmetic,1.99,ios,GB
+T0000117,P00207,2024-03-31,Gem Pack L,gems,9.99,ios,GB
+T0000118,P00207,2024-03-21,Rare Skin,cosmetic,3.99,ios,GB
+T0000119,P00207,2024-03-31,Emote Pack,cosmetic,1.99,ios,GB
+T0000120,P00207,2024-03-25,Starter Bundle,bundle,2.99,ios,GB
+T0000121,P00207,2024-03-31,Gem Pack XL,gems,19.99,ios,GB
+T0000122,P00207,2024-03-31,Legend Skin,cosmetic,7.99,ios,GB
+T0000123,P00207,2024-03-31,Legend Skin,cosmetic,7.99,ios,GB
+T0000124,P00207,2024-03-31,Emote Pack,cosmetic,1.99,ios,GB
+T0000125,P00207,2024-03-31,Gem Pack S,gems,0.99,ios,GB
+T0000126,P00212,2024-03-31,Rare Skin,cosmetic,3.99,android,DE
+T0000127,P00212,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,DE
+T0000128,P00212,2024-03-31,VIP Bundle,bundle,14.99,android,DE
+T0000129,P00212,2024-03-31,Gem Pack S,gems,0.99,android,DE
+T0000130,P00242,2024-03-31,Gem Pack S,gems,0.99,android,TR
+T0000131,P00242,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000132,P00242,2024-03-31,Gem Pack S,gems,0.99,android,TR
+T0000133,P00252,2024-03-02,Rare Skin,cosmetic,3.99,android,TR
+T0000134,P00252,2024-03-06,VIP Bundle,bundle,14.99,android,TR
+T0000135,P00252,2024-03-31,Starter Bundle,bundle,2.99,android,TR
+T0000136,P00252,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,TR
+T0000137,P00252,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000138,P00252,2024-03-31,Starter Bundle,bundle,2.99,android,TR
+T0000139,P00263,2024-03-31,Gem Pack XL,gems,19.99,android,IN
+T0000140,P00263,2024-03-31,VIP Bundle,bundle,14.99,android,IN
+T0000141,P00263,2024-03-31,Legend Skin,cosmetic,7.99,android,IN
+T0000142,P00263,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0000143,P00263,2024-03-31,Gem Pack XL,gems,19.99,android,IN
+T0000144,P00263,2024-03-31,Gem Pack L,gems,9.99,android,IN
+T0000145,P00265,2024-03-31,Legend Skin,cosmetic,7.99,android,MX
+T0000146,P00265,2024-03-31,Gem Pack L,gems,9.99,android,MX
+T0000147,P00265,2024-03-31,Legend Skin,cosmetic,7.99,android,MX
+T0000148,P00265,2024-03-31,Gem Pack L,gems,9.99,android,MX
+T0000149,P00265,2024-03-31,Emote Pack,cosmetic,1.99,android,MX
+T0000150,P00265,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,MX
+T0000151,P00272,2024-03-31,Gem Pack M,gems,4.99,android,TR
+T0000152,P00272,2024-03-18,Rare Skin,cosmetic,3.99,android,TR
+T0000153,P00279,2024-02-13,Gem Pack S,gems,0.99,android,PH
+T0000154,P00279,2024-03-07,Rare Skin,cosmetic,3.99,android,PH
+T0000155,P00279,2024-02-05,Starter Bundle,bundle,2.99,android,PH
+T0000156,P00279,2024-03-31,Legend Skin,cosmetic,7.99,android,PH
+T0000157,P00279,2024-03-31,Gem Pack S,gems,0.99,android,PH
+T0000158,P00279,2024-03-16,Gem Pack S,gems,0.99,android,PH
+T0000159,P00287,2024-03-31,Gem Pack M,gems,4.99,android,IN
+T0000160,P00287,2024-03-31,Legend Skin,cosmetic,7.99,android,IN
+T0000161,P00288,2024-03-24,Stumble Pass Monthly,season_pass,4.99,android,BR
+T0000162,P00288,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0000163,P00288,2024-03-10,VIP Bundle,bundle,14.99,android,BR
+T0000164,P00288,2024-03-31,Gem Pack M,gems,4.99,android,BR
+T0000165,P00288,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000166,P00288,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0000167,P00288,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000168,P00288,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000169,P00292,2024-03-31,Gem Pack S,gems,0.99,android,PH
+T0000170,P00292,2024-03-31,Gem Pack S,gems,0.99,android,PH
+T0000171,P00292,2024-02-05,Starter Bundle,bundle,2.99,android,PH
+T0000172,P00298,2024-03-31,Rare Skin,cosmetic,3.99,android,DE
+T0000173,P00298,2024-02-06,Stumble Pass Monthly,season_pass,4.99,android,DE
+T0000174,P00298,2024-01-26,Emote Pack,cosmetic,1.99,android,DE
+T0000175,P00298,2024-03-27,Emote Pack,cosmetic,1.99,android,DE
+T0000176,P00298,2024-01-25,Gem Pack L,gems,9.99,android,DE
+T0000177,P00298,2024-03-02,Starter Bundle,bundle,2.99,android,DE
+T0000178,P00298,2024-02-16,Gem Pack XL,gems,19.99,android,DE
+T0000179,P00298,2024-02-27,Starter Bundle,bundle,2.99,android,DE
+T0000180,P00298,2024-03-31,Gem Pack S,gems,0.99,android,DE
+T0000181,P00298,2024-02-01,Stumble Pass Monthly,season_pass,4.99,android,DE
+T0000182,P00298,2024-02-12,Gem Pack XL,gems,19.99,android,DE
+T0000183,P00298,2024-01-22,Gem Pack M,gems,4.99,android,DE
+T0000184,P00304,2024-03-25,Gem Pack XL,gems,19.99,ios,GB
+T0000185,P00304,2024-03-31,Starter Bundle,bundle,2.99,ios,GB
+T0000186,P00304,2024-03-26,Starter Bundle,bundle,2.99,ios,GB
+T0000187,P00312,2024-02-15,Gem Pack M,gems,4.99,android,US
+T0000188,P00312,2024-02-05,VIP Bundle,bundle,14.99,android,US
+T0000189,P00312,2024-02-03,Emote Pack,cosmetic,1.99,android,US
+T0000190,P00312,2024-02-09,Emote Pack,cosmetic,1.99,android,US
+T0000191,P00312,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000192,P00312,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000193,P00312,2024-03-04,Starter Bundle,bundle,2.99,android,US
+T0000194,P00312,2024-01-27,VIP Bundle,bundle,14.99,android,US
+T0000195,P00312,2024-03-27,Emote Pack,cosmetic,1.99,android,US
+T0000196,P00312,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000197,P00312,2024-03-28,Emote Pack,cosmetic,1.99,android,US
+T0000198,P00312,2024-03-03,Starter Bundle,bundle,2.99,android,US
+T0000199,P00324,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,FR
+T0000200,P00324,2024-03-31,Legend Skin,cosmetic,7.99,ios,FR
+T0000201,P00324,2024-03-31,Rare Skin,cosmetic,3.99,ios,FR
+T0000202,P00324,2024-03-31,Legend Skin,cosmetic,7.99,ios,FR
+T0000203,P00324,2024-03-31,Gem Pack L,gems,9.99,ios,FR
+T0000204,P00324,2024-03-31,Rare Skin,cosmetic,3.99,ios,FR
+T0000205,P00324,2024-03-31,Emote Pack,cosmetic,1.99,ios,FR
+T0000206,P00324,2024-03-31,Starter Bundle,bundle,2.99,ios,FR
+T0000207,P00324,2024-03-31,Legend Skin,cosmetic,7.99,ios,FR
+T0000208,P00324,2024-03-31,Gem Pack M,gems,4.99,ios,FR
+T0000209,P00324,2024-03-31,Legend Skin,cosmetic,7.99,ios,FR
+T0000210,P00324,2024-03-23,Emote Pack,cosmetic,1.99,ios,FR
+T0000211,P00324,2024-03-31,Gem Pack XL,gems,19.99,ios,FR
+T0000212,P00347,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000213,P00347,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000214,P00347,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000215,P00347,2024-03-29,Gem Pack L,gems,9.99,android,US
+T0000216,P00347,2024-03-29,Gem Pack M,gems,4.99,android,US
+T0000217,P00347,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000218,P00347,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000219,P00347,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000220,P00347,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000221,P00347,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000222,P00351,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,TR
+T0000223,P00351,2024-02-18,Gem Pack XL,gems,19.99,ios,TR
+T0000224,P00358,2024-02-13,VIP Bundle,bundle,14.99,android,FR
+T0000225,P00358,2024-03-11,Emote Pack,cosmetic,1.99,android,FR
+T0000226,P00358,2024-02-06,Starter Bundle,bundle,2.99,android,FR
+T0000227,P00358,2024-03-17,Gem Pack M,gems,4.99,android,FR
+T0000228,P00358,2024-03-31,Legend Skin,cosmetic,7.99,android,FR
+T0000229,P00358,2024-01-17,Gem Pack S,gems,0.99,android,FR
+T0000230,P00358,2024-02-05,Gem Pack M,gems,4.99,android,FR
+T0000231,P00358,2024-03-31,Legend Skin,cosmetic,7.99,android,FR
+T0000232,P00358,2024-03-31,Legend Skin,cosmetic,7.99,android,FR
+T0000233,P00358,2024-03-02,Gem Pack XL,gems,19.99,android,FR
+T0000234,P00358,2024-01-30,Gem Pack XL,gems,19.99,android,FR
+T0000235,P00358,2024-03-29,Emote Pack,cosmetic,1.99,android,FR
+T0000236,P00358,2024-01-28,Rare Skin,cosmetic,3.99,android,FR
+T0000237,P00406,2024-02-25,Rare Skin,cosmetic,3.99,android,ID
+T0000238,P00406,2024-03-18,VIP Bundle,bundle,14.99,android,ID
+T0000239,P00406,2024-03-08,Starter Bundle,bundle,2.99,android,ID
+T0000240,P00406,2024-02-29,VIP Bundle,bundle,14.99,android,ID
+T0000241,P00406,2024-03-14,Gem Pack S,gems,0.99,android,ID
+T0000242,P00406,2024-02-15,Gem Pack S,gems,0.99,android,ID
+T0000243,P00406,2024-03-21,Rare Skin,cosmetic,3.99,android,ID
+T0000244,P00406,2024-03-31,Legend Skin,cosmetic,7.99,android,ID
+T0000245,P00406,2024-03-01,Gem Pack M,gems,4.99,android,ID
+T0000246,P00406,2024-01-27,Gem Pack XL,gems,19.99,android,ID
+T0000247,P00406,2024-02-07,Rare Skin,cosmetic,3.99,android,ID
+T0000248,P00406,2024-03-31,Gem Pack XL,gems,19.99,android,ID
+T0000249,P00406,2024-03-01,Gem Pack S,gems,0.99,android,ID
+T0000250,P00406,2024-02-03,Gem Pack M,gems,4.99,android,ID
+T0000251,P00406,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000252,P00415,2024-03-31,Gem Pack L,gems,9.99,ios,ID
+T0000253,P00415,2024-03-31,Legend Skin,cosmetic,7.99,ios,ID
+T0000254,P00415,2024-03-31,Gem Pack S,gems,0.99,ios,ID
+T0000255,P00415,2024-03-31,Gem Pack S,gems,0.99,ios,ID
+T0000256,P00415,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,ID
+T0000257,P00415,2024-03-31,Rare Skin,cosmetic,3.99,ios,ID
+T0000258,P00415,2024-03-31,Starter Bundle,bundle,2.99,ios,ID
+T0000259,P00415,2024-03-31,Rare Skin,cosmetic,3.99,ios,ID
+T0000260,P00415,2024-03-31,Gem Pack XL,gems,19.99,ios,ID
+T0000261,P00415,2024-03-31,Gem Pack M,gems,4.99,ios,ID
+T0000262,P00415,2024-03-31,Gem Pack L,gems,9.99,ios,ID
+T0000263,P00415,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,ID
+T0000264,P00423,2024-02-22,Emote Pack,cosmetic,1.99,android,IN
+T0000265,P00423,2024-03-19,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0000266,P00423,2024-03-13,Gem Pack XL,gems,19.99,android,IN
+T0000267,P00423,2024-02-10,Gem Pack S,gems,0.99,android,IN
+T0000268,P00423,2024-03-08,Gem Pack L,gems,9.99,android,IN
+T0000269,P00423,2024-02-06,Gem Pack XL,gems,19.99,android,IN
+T0000270,P00423,2024-02-14,Gem Pack XL,gems,19.99,android,IN
+T0000271,P00423,2024-03-31,Legend Skin,cosmetic,7.99,android,IN
+T0000272,P00423,2024-02-29,Gem Pack XL,gems,19.99,android,IN
+T0000273,P00423,2024-03-26,Emote Pack,cosmetic,1.99,android,IN
+T0000274,P00423,2024-03-31,Legend Skin,cosmetic,7.99,android,IN
+T0000275,P00423,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000276,P00423,2024-03-23,Gem Pack XL,gems,19.99,android,IN
+T0000277,P00423,2024-02-29,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0000278,P00423,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000279,P00432,2024-02-08,Gem Pack L,gems,9.99,ios,DE
+T0000280,P00437,2024-03-31,Emote Pack,cosmetic,1.99,android,PH
+T0000281,P00437,2024-02-24,Starter Bundle,bundle,2.99,android,PH
+T0000282,P00437,2024-03-04,Legend Skin,cosmetic,7.99,android,PH
+T0000283,P00437,2024-02-19,Emote Pack,cosmetic,1.99,android,PH
+T0000284,P00437,2024-03-31,Gem Pack L,gems,9.99,android,PH
+T0000285,P00437,2024-03-31,VIP Bundle,bundle,14.99,android,PH
+T0000286,P00437,2024-03-31,Gem Pack XL,gems,19.99,android,PH
+T0000287,P00437,2024-03-31,Emote Pack,cosmetic,1.99,android,PH
+T0000288,P00437,2024-03-31,Emote Pack,cosmetic,1.99,android,PH
+T0000289,P00437,2024-03-30,Gem Pack M,gems,4.99,android,PH
+T0000290,P00469,2024-02-26,Starter Bundle,bundle,2.99,android,FR
+T0000291,P00469,2024-03-31,Gem Pack M,gems,4.99,android,FR
+T0000292,P00469,2024-01-24,VIP Bundle,bundle,14.99,android,FR
+T0000293,P00469,2024-02-14,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000294,P00469,2024-02-26,VIP Bundle,bundle,14.99,android,FR
+T0000295,P00469,2024-03-31,Gem Pack XL,gems,19.99,android,FR
+T0000296,P00469,2024-03-30,Legend Skin,cosmetic,7.99,android,FR
+T0000297,P00469,2024-02-27,Legend Skin,cosmetic,7.99,android,FR
+T0000298,P00469,2024-02-06,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000299,P00469,2024-03-07,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000300,P00469,2024-02-10,Rare Skin,cosmetic,3.99,android,FR
+T0000301,P00469,2024-01-24,Gem Pack L,gems,9.99,android,FR
+T0000302,P00469,2024-02-04,Gem Pack M,gems,4.99,android,FR
+T0000303,P00480,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0000304,P00480,2024-02-24,Rare Skin,cosmetic,3.99,android,DE
+T0000305,P00480,2024-01-31,Gem Pack L,gems,9.99,android,DE
+T0000306,P00480,2024-02-26,Gem Pack XL,gems,19.99,android,DE
+T0000307,P00480,2024-03-01,Emote Pack,cosmetic,1.99,android,DE
+T0000308,P00480,2024-03-31,Gem Pack S,gems,0.99,android,DE
+T0000309,P00506,2024-03-31,Emote Pack,cosmetic,1.99,ios,TR
+T0000310,P00525,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0000311,P00525,2024-01-30,Legend Skin,cosmetic,7.99,android,ID
+T0000312,P00525,2024-01-26,Gem Pack S,gems,0.99,android,ID
+T0000313,P00525,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000314,P00525,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000315,P00525,2024-03-03,Legend Skin,cosmetic,7.99,android,ID
+T0000316,P00525,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000317,P00525,2024-02-16,Gem Pack M,gems,4.99,android,ID
+T0000318,P00525,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000319,P00525,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000320,P00525,2024-03-16,Gem Pack XL,gems,19.99,android,ID
+T0000321,P00525,2024-03-31,Gem Pack XL,gems,19.99,android,ID
+T0000322,P00525,2024-02-04,Starter Bundle,bundle,2.99,android,ID
+T0000323,P00525,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000324,P00531,2024-03-31,Rare Skin,cosmetic,3.99,ios,FR
+T0000325,P00531,2024-03-24,Rare Skin,cosmetic,3.99,ios,FR
+T0000326,P00531,2024-03-31,Gem Pack S,gems,0.99,ios,FR
+T0000327,P00531,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,FR
+T0000328,P00531,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,FR
+T0000329,P00531,2024-03-31,Starter Bundle,bundle,2.99,ios,FR
+T0000330,P00531,2024-03-31,Legend Skin,cosmetic,7.99,ios,FR
+T0000331,P00531,2024-03-31,Gem Pack S,gems,0.99,ios,FR
+T0000332,P00531,2024-03-31,Rare Skin,cosmetic,3.99,ios,FR
+T0000333,P00531,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,FR
+T0000334,P00531,2024-03-31,Gem Pack M,gems,4.99,ios,FR
+T0000335,P00531,2024-03-31,Gem Pack L,gems,9.99,ios,FR
+T0000336,P00531,2024-03-31,Legend Skin,cosmetic,7.99,ios,FR
+T0000337,P00531,2024-03-31,Gem Pack XL,gems,19.99,ios,FR
+T0000338,P00556,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000339,P00556,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000340,P00556,2024-03-17,Gem Pack S,gems,0.99,android,US
+T0000341,P00556,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000342,P00556,2024-03-14,Starter Bundle,bundle,2.99,android,US
+T0000343,P00556,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000344,P00556,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000345,P00556,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000346,P00556,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000347,P00556,2024-03-12,Rare Skin,cosmetic,3.99,android,US
+T0000348,P00556,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000349,P00556,2024-03-15,Gem Pack M,gems,4.99,android,US
+T0000350,P00556,2024-03-15,Gem Pack XL,gems,19.99,android,US
+T0000351,P00556,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000352,P00556,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000353,P00575,2024-02-02,Emote Pack,cosmetic,1.99,android,FR
+T0000354,P00575,2024-02-04,Gem Pack XL,gems,19.99,android,FR
+T0000355,P00575,2024-03-19,Gem Pack XL,gems,19.99,android,FR
+T0000356,P00575,2024-01-19,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000357,P00575,2024-02-01,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000358,P00575,2024-02-15,Emote Pack,cosmetic,1.99,android,FR
+T0000359,P00575,2024-02-29,Gem Pack L,gems,9.99,android,FR
+T0000360,P00575,2024-02-06,Starter Bundle,bundle,2.99,android,FR
+T0000361,P00575,2024-03-07,Starter Bundle,bundle,2.99,android,FR
+T0000362,P00575,2024-02-25,Gem Pack XL,gems,19.99,android,FR
+T0000363,P00575,2024-03-06,Gem Pack L,gems,9.99,android,FR
+T0000364,P00575,2024-03-01,VIP Bundle,bundle,14.99,android,FR
+T0000365,P00575,2024-02-25,Gem Pack L,gems,9.99,android,FR
+T0000366,P00575,2024-03-12,Gem Pack XL,gems,19.99,android,FR
+T0000367,P00579,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000368,P00579,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000369,P00579,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000370,P00579,2024-03-22,Stumble Pass Monthly,season_pass,4.99,android,BR
+T0000371,P00579,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000372,P00579,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0000373,P00579,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000374,P00579,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000375,P00579,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000376,P00591,2024-03-23,Gem Pack XL,gems,19.99,ios,DE
+T0000377,P00591,2024-03-31,Rare Skin,cosmetic,3.99,ios,DE
+T0000378,P00591,2024-03-31,Gem Pack S,gems,0.99,ios,DE
+T0000379,P00591,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,DE
+T0000380,P00591,2024-02-04,VIP Bundle,bundle,14.99,ios,DE
+T0000381,P00591,2024-03-12,Gem Pack S,gems,0.99,ios,DE
+T0000382,P00591,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,DE
+T0000383,P00591,2024-03-31,Starter Bundle,bundle,2.99,ios,DE
+T0000384,P00591,2024-03-31,VIP Bundle,bundle,14.99,ios,DE
+T0000385,P00591,2024-02-20,Gem Pack M,gems,4.99,ios,DE
+T0000386,P00591,2024-03-31,Gem Pack XL,gems,19.99,ios,DE
+T0000387,P00618,2024-02-03,Gem Pack XL,gems,19.99,ios,PH
+T0000388,P00618,2024-02-16,Gem Pack M,gems,4.99,ios,PH
+T0000389,P00618,2024-03-17,Gem Pack M,gems,4.99,ios,PH
+T0000390,P00618,2024-03-31,Gem Pack M,gems,4.99,ios,PH
+T0000391,P00618,2024-03-17,Gem Pack S,gems,0.99,ios,PH
+T0000392,P00618,2024-03-31,Gem Pack S,gems,0.99,ios,PH
+T0000393,P00618,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,PH
+T0000394,P00618,2024-03-09,Gem Pack M,gems,4.99,ios,PH
+T0000395,P00618,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,PH
+T0000396,P00618,2024-03-06,Rare Skin,cosmetic,3.99,ios,PH
+T0000397,P00618,2024-03-07,Gem Pack L,gems,9.99,ios,PH
+T0000398,P00618,2024-03-02,Legend Skin,cosmetic,7.99,ios,PH
+T0000399,P00618,2024-03-22,VIP Bundle,bundle,14.99,ios,PH
+T0000400,P00618,2024-03-31,Gem Pack M,gems,4.99,ios,PH
+T0000401,P00618,2024-03-31,VIP Bundle,bundle,14.99,ios,PH
+T0000402,P00624,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0000403,P00632,2024-03-31,Gem Pack XL,gems,19.99,android,IN
+T0000404,P00632,2024-03-31,Gem Pack L,gems,9.99,android,IN
+T0000405,P00632,2024-03-23,Rare Skin,cosmetic,3.99,android,IN
+T0000406,P00632,2024-03-31,Rare Skin,cosmetic,3.99,android,IN
+T0000407,P00632,2024-03-31,Gem Pack M,gems,4.99,android,IN
+T0000408,P00632,2024-03-18,Gem Pack M,gems,4.99,android,IN
+T0000409,P00632,2024-03-26,Gem Pack S,gems,0.99,android,IN
+T0000410,P00632,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000411,P00662,2024-02-23,Rare Skin,cosmetic,3.99,android,DE
+T0000412,P00662,2024-03-22,Legend Skin,cosmetic,7.99,android,DE
+T0000413,P00662,2024-03-30,Gem Pack M,gems,4.99,android,DE
+T0000414,P00662,2024-02-18,Rare Skin,cosmetic,3.99,android,DE
+T0000415,P00662,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0000416,P00662,2024-03-18,Legend Skin,cosmetic,7.99,android,DE
+T0000417,P00662,2024-03-26,Gem Pack M,gems,4.99,android,DE
+T0000418,P00662,2024-03-15,Gem Pack S,gems,0.99,android,DE
+T0000419,P00662,2024-03-23,Rare Skin,cosmetic,3.99,android,DE
+T0000420,P00662,2024-02-10,Gem Pack XL,gems,19.99,android,DE
+T0000421,P00674,2024-03-26,VIP Bundle,bundle,14.99,ios,ID
+T0000422,P00674,2024-03-31,Rare Skin,cosmetic,3.99,ios,ID
+T0000423,P00680,2024-03-04,Rare Skin,cosmetic,3.99,android,PH
+T0000424,P00680,2024-02-14,Gem Pack XL,gems,19.99,android,PH
+T0000425,P00680,2024-03-30,Gem Pack XL,gems,19.99,android,PH
+T0000426,P00680,2024-01-18,Gem Pack S,gems,0.99,android,PH
+T0000427,P00680,2024-02-15,Rare Skin,cosmetic,3.99,android,PH
+T0000428,P00680,2024-02-15,Gem Pack S,gems,0.99,android,PH
+T0000429,P00680,2024-03-30,VIP Bundle,bundle,14.99,android,PH
+T0000430,P00693,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0000431,P00693,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0000432,P00693,2024-03-25,Gem Pack S,gems,0.99,android,BR
+T0000433,P00693,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000434,P00693,2024-03-15,Rare Skin,cosmetic,3.99,android,BR
+T0000435,P00693,2024-03-31,Gem Pack XL,gems,19.99,android,BR
+T0000436,P00693,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0000437,P00693,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0000438,P00693,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,BR
+T0000439,P00693,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000440,P00693,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000441,P00693,2024-03-10,Gem Pack XL,gems,19.99,android,BR
+T0000442,P00693,2024-03-31,Gem Pack M,gems,4.99,android,BR
+T0000443,P00693,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000444,P00708,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0000445,P00708,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000446,P00708,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000447,P00708,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000448,P00708,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0000449,P00708,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000450,P00708,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000451,P00708,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0000452,P00708,2024-03-31,Gem Pack M,gems,4.99,android,BR
+T0000453,P00708,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000454,P00708,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0000455,P00708,2024-03-31,Gem Pack M,gems,4.99,android,BR
+T0000456,P00708,2024-03-31,Gem Pack M,gems,4.99,android,BR
+T0000457,P00737,2024-03-06,Gem Pack M,gems,4.99,android,PH
+T0000458,P00737,2024-02-28,Gem Pack XL,gems,19.99,android,PH
+T0000459,P00737,2024-03-02,Gem Pack M,gems,4.99,android,PH
+T0000460,P00737,2024-01-11,Gem Pack M,gems,4.99,android,PH
+T0000461,P00743,2024-03-20,Gem Pack XL,gems,19.99,android,IN
+T0000462,P00743,2024-03-27,Rare Skin,cosmetic,3.99,android,IN
+T0000463,P00743,2024-02-04,Gem Pack S,gems,0.99,android,IN
+T0000464,P00743,2024-01-30,Starter Bundle,bundle,2.99,android,IN
+T0000465,P00743,2024-03-15,Emote Pack,cosmetic,1.99,android,IN
+T0000466,P00743,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0000467,P00743,2024-03-14,Emote Pack,cosmetic,1.99,android,IN
+T0000468,P00743,2024-02-15,Rare Skin,cosmetic,3.99,android,IN
+T0000469,P00760,2024-01-20,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000470,P00760,2024-01-16,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000471,P00760,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000472,P00760,2024-02-05,Starter Bundle,bundle,2.99,android,US
+T0000473,P00760,2024-03-06,Gem Pack XL,gems,19.99,android,US
+T0000474,P00791,2024-03-25,Gem Pack S,gems,0.99,ios,IN
+T0000475,P00791,2024-03-31,Rare Skin,cosmetic,3.99,ios,IN
+T0000476,P00808,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0000477,P00808,2024-03-19,Emote Pack,cosmetic,1.99,android,ID
+T0000478,P00808,2024-03-17,Gem Pack L,gems,9.99,android,ID
+T0000479,P00808,2024-03-15,Gem Pack S,gems,0.99,android,ID
+T0000480,P00808,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000481,P00808,2024-03-22,Gem Pack S,gems,0.99,android,ID
+T0000482,P00808,2024-02-16,Rare Skin,cosmetic,3.99,android,ID
+T0000483,P00808,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000484,P00823,2024-03-23,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000485,P00823,2024-03-31,Legend Skin,cosmetic,7.99,android,ID
+T0000486,P00823,2024-03-26,Gem Pack S,gems,0.99,android,ID
+T0000487,P00835,2024-02-13,Gem Pack M,gems,4.99,ios,ID
+T0000488,P00835,2024-03-31,Rare Skin,cosmetic,3.99,ios,ID
+T0000489,P00835,2024-02-11,Rare Skin,cosmetic,3.99,ios,ID
+T0000490,P00839,2024-03-31,Gem Pack L,gems,9.99,android,DE
+T0000491,P00839,2024-03-31,Starter Bundle,bundle,2.99,android,DE
+T0000492,P00839,2024-03-31,Starter Bundle,bundle,2.99,android,DE
+T0000493,P00839,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0000494,P00839,2024-03-31,Starter Bundle,bundle,2.99,android,DE
+T0000495,P00839,2024-03-31,VIP Bundle,bundle,14.99,android,DE
+T0000496,P00839,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0000497,P00839,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0000498,P00844,2024-02-20,Rare Skin,cosmetic,3.99,android,US
+T0000499,P00844,2024-01-27,Emote Pack,cosmetic,1.99,android,US
+T0000500,P00844,2024-03-05,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000501,P00844,2024-02-09,Gem Pack L,gems,9.99,android,US
+T0000502,P00849,2024-03-30,Rare Skin,cosmetic,3.99,android,DE
+T0000503,P00849,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0000504,P00849,2024-03-27,VIP Bundle,bundle,14.99,android,DE
+T0000505,P00849,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0000506,P00849,2024-03-31,Legend Skin,cosmetic,7.99,android,DE
+T0000507,P00849,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0000508,P00849,2024-03-31,Rare Skin,cosmetic,3.99,android,DE
+T0000509,P00852,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000510,P00852,2024-03-19,Emote Pack,cosmetic,1.99,android,US
+T0000511,P00852,2024-03-24,Starter Bundle,bundle,2.99,android,US
+T0000512,P00852,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000513,P00852,2024-03-23,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000514,P00852,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000515,P00852,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000516,P00857,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000517,P00857,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0000518,P00857,2024-03-18,Gem Pack XL,gems,19.99,android,ID
+T0000519,P00857,2024-03-08,Gem Pack XL,gems,19.99,android,ID
+T0000520,P00857,2024-02-17,Starter Bundle,bundle,2.99,android,ID
+T0000521,P00857,2024-02-23,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000522,P00857,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000523,P00857,2024-02-13,Gem Pack XL,gems,19.99,android,ID
+T0000524,P00857,2024-02-15,Gem Pack L,gems,9.99,android,ID
+T0000525,P00857,2024-01-29,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000526,P00857,2024-03-17,Legend Skin,cosmetic,7.99,android,ID
+T0000527,P00857,2024-03-31,Emote Pack,cosmetic,1.99,android,ID
+T0000528,P00857,2024-01-16,Gem Pack M,gems,4.99,android,ID
+T0000529,P00857,2024-01-25,Emote Pack,cosmetic,1.99,android,ID
+T0000530,P00857,2024-03-03,Starter Bundle,bundle,2.99,android,ID
+T0000531,P00864,2024-03-31,Gem Pack S,gems,0.99,android,ID
+T0000532,P00864,2024-03-31,Emote Pack,cosmetic,1.99,android,ID
+T0000533,P00864,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000534,P00864,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000535,P00864,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000536,P00864,2024-03-29,Starter Bundle,bundle,2.99,android,ID
+T0000537,P00864,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000538,P00864,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000539,P00864,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000540,P00864,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000541,P00864,2024-03-29,Rare Skin,cosmetic,3.99,android,ID
+T0000542,P00864,2024-03-31,Emote Pack,cosmetic,1.99,android,ID
+T0000543,P00864,2024-03-26,Legend Skin,cosmetic,7.99,android,ID
+T0000544,P00864,2024-03-31,Gem Pack XL,gems,19.99,android,ID
+T0000545,P00864,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0000546,P00873,2024-03-13,Rare Skin,cosmetic,3.99,android,ID
+T0000547,P00873,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000548,P00873,2024-03-31,Gem Pack XL,gems,19.99,android,ID
+T0000549,P00873,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000550,P00873,2024-03-05,Gem Pack M,gems,4.99,android,ID
+T0000551,P00873,2024-03-12,Legend Skin,cosmetic,7.99,android,ID
+T0000552,P00882,2024-02-09,Emote Pack,cosmetic,1.99,android,US
+T0000553,P00882,2024-01-31,VIP Bundle,bundle,14.99,android,US
+T0000554,P00882,2024-02-28,Gem Pack M,gems,4.99,android,US
+T0000555,P00882,2024-02-11,Legend Skin,cosmetic,7.99,android,US
+T0000556,P00894,2024-03-31,Gem Pack S,gems,0.99,android,GB
+T0000557,P00898,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000558,P00898,2024-03-19,Starter Bundle,bundle,2.99,android,US
+T0000559,P00898,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000560,P00898,2024-02-11,Legend Skin,cosmetic,7.99,android,US
+T0000561,P00898,2024-03-03,Gem Pack S,gems,0.99,android,US
+T0000562,P00898,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000563,P00898,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000564,P00898,2024-03-06,Emote Pack,cosmetic,1.99,android,US
+T0000565,P00921,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000566,P00921,2024-03-21,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000567,P00921,2024-03-20,Gem Pack M,gems,4.99,android,ID
+T0000568,P00921,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000569,P00952,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000570,P00952,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000571,P00952,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000572,P00952,2024-02-27,VIP Bundle,bundle,14.99,android,US
+T0000573,P00952,2024-03-25,Legend Skin,cosmetic,7.99,android,US
+T0000574,P00952,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000575,P00952,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000576,P00952,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000577,P00952,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000578,P00952,2024-03-22,Emote Pack,cosmetic,1.99,android,US
+T0000579,P00952,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000580,P00952,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000581,P00952,2024-03-10,Legend Skin,cosmetic,7.99,android,US
+T0000582,P00952,2024-03-14,Gem Pack M,gems,4.99,android,US
+T0000583,P00963,2024-03-25,Gem Pack XL,gems,19.99,ios,ID
+T0000584,P00963,2024-03-31,Gem Pack XL,gems,19.99,ios,ID
+T0000585,P00963,2024-02-23,Gem Pack S,gems,0.99,ios,ID
+T0000586,P00963,2024-01-31,Gem Pack L,gems,9.99,ios,ID
+T0000587,P00963,2024-03-15,Gem Pack L,gems,9.99,ios,ID
+T0000588,P00963,2024-02-28,Gem Pack XL,gems,19.99,ios,ID
+T0000589,P00969,2024-02-08,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000590,P00969,2024-02-14,Rare Skin,cosmetic,3.99,android,ID
+T0000591,P00969,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000592,P00969,2024-03-23,Rare Skin,cosmetic,3.99,android,ID
+T0000593,P00969,2024-03-31,Gem Pack S,gems,0.99,android,ID
+T0000594,P00969,2024-01-23,Gem Pack XL,gems,19.99,android,ID
+T0000595,P00969,2024-03-12,Gem Pack S,gems,0.99,android,ID
+T0000596,P00969,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000597,P00969,2024-02-10,Gem Pack S,gems,0.99,android,ID
+T0000598,P00969,2024-02-03,VIP Bundle,bundle,14.99,android,ID
+T0000599,P00973,2024-01-14,Gem Pack XL,gems,19.99,android,US
+T0000600,P00973,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000601,P00973,2024-03-15,Emote Pack,cosmetic,1.99,android,US
+T0000602,P00973,2024-03-27,Gem Pack S,gems,0.99,android,US
+T0000603,P00973,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000604,P00984,2024-03-07,Starter Bundle,bundle,2.99,android,GB
+T0000605,P00984,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,GB
+T0000606,P00984,2024-02-11,Gem Pack L,gems,9.99,android,GB
+T0000607,P00984,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,GB
+T0000608,P01013,2024-01-21,Gem Pack L,gems,9.99,android,US
+T0000609,P01013,2024-03-08,Gem Pack L,gems,9.99,android,US
+T0000610,P01013,2024-03-11,Gem Pack XL,gems,19.99,android,US
+T0000611,P01013,2024-03-21,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000612,P01013,2024-01-18,Rare Skin,cosmetic,3.99,android,US
+T0000613,P01015,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000614,P01015,2024-03-31,Gem Pack XL,gems,19.99,android,TR
+T0000615,P01015,2024-03-31,Emote Pack,cosmetic,1.99,android,TR
+T0000616,P01015,2024-03-31,Legend Skin,cosmetic,7.99,android,TR
+T0000617,P01015,2024-03-31,VIP Bundle,bundle,14.99,android,TR
+T0000618,P01015,2024-03-31,Legend Skin,cosmetic,7.99,android,TR
+T0000619,P01015,2024-03-31,Legend Skin,cosmetic,7.99,android,TR
+T0000620,P01015,2024-03-31,Gem Pack S,gems,0.99,android,TR
+T0000621,P01015,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000622,P01015,2024-03-31,VIP Bundle,bundle,14.99,android,TR
+T0000623,P01015,2024-03-31,VIP Bundle,bundle,14.99,android,TR
+T0000624,P01018,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000625,P01045,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0000626,P01045,2024-03-31,Legend Skin,cosmetic,7.99,android,DE
+T0000627,P01052,2024-03-28,Gem Pack M,gems,4.99,android,FR
+T0000628,P01052,2024-03-31,Emote Pack,cosmetic,1.99,android,FR
+T0000629,P01052,2024-03-31,Starter Bundle,bundle,2.99,android,FR
+T0000630,P01052,2024-03-31,Legend Skin,cosmetic,7.99,android,FR
+T0000631,P01068,2024-03-28,Emote Pack,cosmetic,1.99,android,BR
+T0000632,P01068,2024-02-22,VIP Bundle,bundle,14.99,android,BR
+T0000633,P01091,2024-03-31,Gem Pack XL,gems,19.99,ios,DE
+T0000634,P01091,2024-03-31,Rare Skin,cosmetic,3.99,ios,DE
+T0000635,P01091,2024-03-20,Gem Pack L,gems,9.99,ios,DE
+T0000636,P01091,2024-03-31,VIP Bundle,bundle,14.99,ios,DE
+T0000637,P01091,2024-03-31,VIP Bundle,bundle,14.99,ios,DE
+T0000638,P01091,2024-03-17,Gem Pack S,gems,0.99,ios,DE
+T0000639,P01091,2024-03-27,Gem Pack M,gems,4.99,ios,DE
+T0000640,P01091,2024-03-31,Rare Skin,cosmetic,3.99,ios,DE
+T0000641,P01091,2024-03-31,Gem Pack M,gems,4.99,ios,DE
+T0000642,P01172,2024-02-24,Gem Pack XL,gems,19.99,android,DE
+T0000643,P01173,2024-03-31,Gem Pack L,gems,9.99,android,BR
+T0000644,P01173,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0000645,P01173,2024-02-19,Gem Pack M,gems,4.99,android,BR
+T0000646,P01173,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0000647,P01173,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0000648,P01173,2024-03-31,Gem Pack XL,gems,19.99,android,BR
+T0000649,P01179,2024-02-21,Gem Pack S,gems,0.99,android,IN
+T0000650,P01179,2024-03-08,Gem Pack L,gems,9.99,android,IN
+T0000651,P01187,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000652,P01187,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000653,P01191,2024-03-31,Gem Pack L,gems,9.99,ios,IN
+T0000654,P01205,2024-03-31,Starter Bundle,bundle,2.99,ios,MX
+T0000655,P01205,2024-03-31,Gem Pack M,gems,4.99,ios,MX
+T0000656,P01212,2024-03-12,Gem Pack S,gems,0.99,android,US
+T0000657,P01212,2024-03-07,Gem Pack XL,gems,19.99,android,US
+T0000658,P01212,2024-02-23,Legend Skin,cosmetic,7.99,android,US
+T0000659,P01214,2024-03-31,Gem Pack M,gems,4.99,android,GB
+T0000660,P01214,2024-03-31,Legend Skin,cosmetic,7.99,android,GB
+T0000661,P01214,2024-03-31,VIP Bundle,bundle,14.99,android,GB
+T0000662,P01214,2024-03-31,Gem Pack M,gems,4.99,android,GB
+T0000663,P01214,2024-03-31,Gem Pack L,gems,9.99,android,GB
+T0000664,P01214,2024-03-31,VIP Bundle,bundle,14.99,android,GB
+T0000665,P01214,2024-03-27,VIP Bundle,bundle,14.99,android,GB
+T0000666,P01214,2024-03-31,Gem Pack L,gems,9.99,android,GB
+T0000667,P01214,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,GB
+T0000668,P01214,2024-03-31,Gem Pack M,gems,4.99,android,GB
+T0000669,P01214,2024-03-31,Legend Skin,cosmetic,7.99,android,GB
+T0000670,P01214,2024-03-31,Gem Pack L,gems,9.99,android,GB
+T0000671,P01214,2024-03-31,Gem Pack S,gems,0.99,android,GB
+T0000672,P01214,2024-03-31,Gem Pack L,gems,9.99,android,GB
+T0000673,P01214,2024-03-31,Emote Pack,cosmetic,1.99,android,GB
+T0000674,P01236,2024-01-29,Gem Pack L,gems,9.99,android,TR
+T0000675,P01236,2024-02-09,Gem Pack L,gems,9.99,android,TR
+T0000676,P01236,2024-03-21,Emote Pack,cosmetic,1.99,android,TR
+T0000677,P01236,2024-03-16,Gem Pack S,gems,0.99,android,TR
+T0000678,P01236,2024-03-16,Starter Bundle,bundle,2.99,android,TR
+T0000679,P01236,2024-02-09,Gem Pack XL,gems,19.99,android,TR
+T0000680,P01236,2024-01-22,Gem Pack M,gems,4.99,android,TR
+T0000681,P01236,2024-02-24,Emote Pack,cosmetic,1.99,android,TR
+T0000682,P01236,2024-02-29,Gem Pack S,gems,0.99,android,TR
+T0000683,P01250,2024-03-08,Gem Pack S,gems,0.99,android,PH
+T0000684,P01250,2024-03-17,Legend Skin,cosmetic,7.99,android,PH
+T0000685,P01250,2024-03-31,Gem Pack XL,gems,19.99,android,PH
+T0000686,P01250,2024-03-26,Legend Skin,cosmetic,7.99,android,PH
+T0000687,P01250,2024-02-28,Gem Pack L,gems,9.99,android,PH
+T0000688,P01250,2024-03-31,Starter Bundle,bundle,2.99,android,PH
+T0000689,P01250,2024-02-28,Emote Pack,cosmetic,1.99,android,PH
+T0000690,P01250,2024-03-01,Gem Pack S,gems,0.99,android,PH
+T0000691,P01250,2024-03-11,Emote Pack,cosmetic,1.99,android,PH
+T0000692,P01250,2024-03-16,Gem Pack XL,gems,19.99,android,PH
+T0000693,P01250,2024-03-30,Emote Pack,cosmetic,1.99,android,PH
+T0000694,P01250,2024-03-28,Gem Pack L,gems,9.99,android,PH
+T0000695,P01250,2024-03-01,VIP Bundle,bundle,14.99,android,PH
+T0000696,P01265,2024-03-23,Gem Pack L,gems,9.99,android,US
+T0000697,P01265,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000698,P01265,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000699,P01265,2024-03-30,Rare Skin,cosmetic,3.99,android,US
+T0000700,P01265,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000701,P01265,2024-03-11,Starter Bundle,bundle,2.99,android,US
+T0000702,P01265,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000703,P01265,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000704,P01265,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000705,P01265,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000706,P01265,2024-03-25,Legend Skin,cosmetic,7.99,android,US
+T0000707,P01265,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000708,P01278,2024-03-10,Legend Skin,cosmetic,7.99,android,US
+T0000709,P01278,2024-01-31,Gem Pack L,gems,9.99,android,US
+T0000710,P01278,2024-02-08,Gem Pack S,gems,0.99,android,US
+T0000711,P01278,2024-03-01,Gem Pack L,gems,9.99,android,US
+T0000712,P01278,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000713,P01278,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000714,P01278,2024-01-29,Gem Pack XL,gems,19.99,android,US
+T0000715,P01278,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000716,P01278,2024-02-28,Gem Pack S,gems,0.99,android,US
+T0000717,P01278,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000718,P01278,2024-03-09,Legend Skin,cosmetic,7.99,android,US
+T0000719,P01278,2024-02-27,Rare Skin,cosmetic,3.99,android,US
+T0000720,P01278,2024-02-12,Starter Bundle,bundle,2.99,android,US
+T0000721,P01278,2024-03-17,Legend Skin,cosmetic,7.99,android,US
+T0000722,P01278,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000723,P01279,2024-03-02,Starter Bundle,bundle,2.99,ios,IN
+T0000724,P01279,2024-03-12,VIP Bundle,bundle,14.99,ios,IN
+T0000725,P01279,2024-03-31,Gem Pack M,gems,4.99,ios,IN
+T0000726,P01279,2024-03-31,Gem Pack S,gems,0.99,ios,IN
+T0000727,P01279,2024-03-31,VIP Bundle,bundle,14.99,ios,IN
+T0000728,P01279,2024-03-20,Rare Skin,cosmetic,3.99,ios,IN
+T0000729,P01279,2024-03-31,Gem Pack L,gems,9.99,ios,IN
+T0000730,P01344,2024-02-09,Legend Skin,cosmetic,7.99,android,MX
+T0000731,P01344,2024-03-08,VIP Bundle,bundle,14.99,android,MX
+T0000732,P01354,2024-02-28,Starter Bundle,bundle,2.99,android,ID
+T0000733,P01354,2024-02-23,Gem Pack XL,gems,19.99,android,ID
+T0000734,P01354,2024-03-31,Legend Skin,cosmetic,7.99,android,ID
+T0000735,P01354,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000736,P01354,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0000737,P01354,2024-03-22,VIP Bundle,bundle,14.99,android,ID
+T0000738,P01354,2024-03-23,Gem Pack M,gems,4.99,android,ID
+T0000739,P01354,2024-02-26,Emote Pack,cosmetic,1.99,android,ID
+T0000740,P01354,2024-02-13,Legend Skin,cosmetic,7.99,android,ID
+T0000741,P01354,2024-03-19,Starter Bundle,bundle,2.99,android,ID
+T0000742,P01354,2024-02-08,Legend Skin,cosmetic,7.99,android,ID
+T0000743,P01354,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000744,P01354,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000745,P01354,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000746,P01354,2024-02-17,Starter Bundle,bundle,2.99,android,ID
+T0000747,P01372,2024-03-15,Gem Pack M,gems,4.99,android,TR
+T0000748,P01372,2024-03-31,VIP Bundle,bundle,14.99,android,TR
+T0000749,P01372,2024-03-31,Gem Pack S,gems,0.99,android,TR
+T0000750,P01372,2024-03-31,Starter Bundle,bundle,2.99,android,TR
+T0000751,P01372,2024-03-31,Gem Pack XL,gems,19.99,android,TR
+T0000752,P01372,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000753,P01372,2024-03-31,VIP Bundle,bundle,14.99,android,TR
+T0000754,P01372,2024-03-31,Emote Pack,cosmetic,1.99,android,TR
+T0000755,P01372,2024-03-31,VIP Bundle,bundle,14.99,android,TR
+T0000756,P01372,2024-03-16,Starter Bundle,bundle,2.99,android,TR
+T0000757,P01372,2024-03-31,Emote Pack,cosmetic,1.99,android,TR
+T0000758,P01372,2024-03-31,Gem Pack XL,gems,19.99,android,TR
+T0000759,P01372,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000760,P01374,2024-03-31,VIP Bundle,bundle,14.99,ios,BR
+T0000761,P01374,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,BR
+T0000762,P01374,2024-03-31,Starter Bundle,bundle,2.99,ios,BR
+T0000763,P01374,2024-03-31,Legend Skin,cosmetic,7.99,ios,BR
+T0000764,P01374,2024-03-31,Gem Pack S,gems,0.99,ios,BR
+T0000765,P01374,2024-03-31,Emote Pack,cosmetic,1.99,ios,BR
+T0000766,P01374,2024-03-31,Gem Pack L,gems,9.99,ios,BR
+T0000767,P01374,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,BR
+T0000768,P01374,2024-03-31,Gem Pack M,gems,4.99,ios,BR
+T0000769,P01374,2024-03-31,Gem Pack M,gems,4.99,ios,BR
+T0000770,P01374,2024-03-21,Gem Pack M,gems,4.99,ios,BR
+T0000771,P01374,2024-03-31,VIP Bundle,bundle,14.99,ios,BR
+T0000772,P01374,2024-03-27,Gem Pack L,gems,9.99,ios,BR
+T0000773,P01374,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,BR
+T0000774,P01374,2024-03-31,VIP Bundle,bundle,14.99,ios,BR
+T0000775,P01380,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000776,P01380,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000777,P01380,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000778,P01380,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000779,P01380,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000780,P01380,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000781,P01380,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000782,P01380,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000783,P01380,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000784,P01380,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000785,P01380,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000786,P01380,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000787,P01380,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000788,P01380,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000789,P01395,2024-03-10,Stumble Pass Monthly,season_pass,4.99,ios,PH
+T0000790,P01395,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,PH
+T0000791,P01395,2024-03-31,VIP Bundle,bundle,14.99,ios,PH
+T0000792,P01395,2024-03-10,Gem Pack XL,gems,19.99,ios,PH
+T0000793,P01395,2024-03-30,Legend Skin,cosmetic,7.99,ios,PH
+T0000794,P01395,2024-02-23,Starter Bundle,bundle,2.99,ios,PH
+T0000795,P01395,2024-03-31,VIP Bundle,bundle,14.99,ios,PH
+T0000796,P01395,2024-03-01,VIP Bundle,bundle,14.99,ios,PH
+T0000797,P01395,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,PH
+T0000798,P01395,2024-03-31,Gem Pack L,gems,9.99,ios,PH
+T0000799,P01395,2024-03-31,VIP Bundle,bundle,14.99,ios,PH
+T0000800,P01395,2024-03-31,VIP Bundle,bundle,14.99,ios,PH
+T0000801,P01396,2024-03-20,Gem Pack S,gems,0.99,ios,ID
+T0000802,P01396,2024-03-04,Legend Skin,cosmetic,7.99,ios,ID
+T0000803,P01396,2024-03-31,Gem Pack M,gems,4.99,ios,ID
+T0000804,P01396,2024-03-31,Gem Pack S,gems,0.99,ios,ID
+T0000805,P01396,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,ID
+T0000806,P01396,2024-03-31,Gem Pack L,gems,9.99,ios,ID
+T0000807,P01396,2024-03-31,Starter Bundle,bundle,2.99,ios,ID
+T0000808,P01396,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,ID
+T0000809,P01396,2024-03-31,Gem Pack M,gems,4.99,ios,ID
+T0000810,P01396,2024-03-31,Gem Pack XL,gems,19.99,ios,ID
+T0000811,P01396,2024-03-31,Gem Pack L,gems,9.99,ios,ID
+T0000812,P01399,2024-03-31,VIP Bundle,bundle,14.99,android,GB
+T0000813,P01399,2024-03-31,Gem Pack L,gems,9.99,android,GB
+T0000814,P01415,2024-03-02,Rare Skin,cosmetic,3.99,android,FR
+T0000815,P01415,2024-03-31,Gem Pack M,gems,4.99,android,FR
+T0000816,P01415,2024-03-31,Gem Pack XL,gems,19.99,android,FR
+T0000817,P01415,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000818,P01415,2024-03-31,Starter Bundle,bundle,2.99,android,FR
+T0000819,P01415,2024-03-31,Gem Pack XL,gems,19.99,android,FR
+T0000820,P01415,2024-03-31,Emote Pack,cosmetic,1.99,android,FR
+T0000821,P01415,2024-03-23,Legend Skin,cosmetic,7.99,android,FR
+T0000822,P01415,2024-03-31,Rare Skin,cosmetic,3.99,android,FR
+T0000823,P01415,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0000824,P01415,2024-03-31,Emote Pack,cosmetic,1.99,android,FR
+T0000825,P01438,2024-02-04,Gem Pack L,gems,9.99,ios,US
+T0000826,P01438,2024-03-06,Gem Pack XL,gems,19.99,ios,US
+T0000827,P01438,2024-02-08,Rare Skin,cosmetic,3.99,ios,US
+T0000828,P01438,2024-01-19,Stumble Pass Monthly,season_pass,4.99,ios,US
+T0000829,P01438,2024-01-08,Rare Skin,cosmetic,3.99,ios,US
+T0000830,P01438,2024-02-03,Legend Skin,cosmetic,7.99,ios,US
+T0000831,P01438,2024-01-16,Stumble Pass Monthly,season_pass,4.99,ios,US
+T0000832,P01438,2024-03-31,Gem Pack XL,gems,19.99,ios,US
+T0000833,P01438,2024-01-08,Gem Pack XL,gems,19.99,ios,US
+T0000834,P01438,2024-01-21,VIP Bundle,bundle,14.99,ios,US
+T0000835,P01438,2024-02-20,VIP Bundle,bundle,14.99,ios,US
+T0000836,P01438,2024-02-20,Emote Pack,cosmetic,1.99,ios,US
+T0000837,P01438,2024-01-15,Gem Pack L,gems,9.99,ios,US
+T0000838,P01438,2024-03-07,Gem Pack XL,gems,19.99,ios,US
+T0000839,P01438,2024-02-25,Gem Pack M,gems,4.99,ios,US
+T0000840,P01445,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000841,P01445,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000842,P01445,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000843,P01445,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000844,P01461,2024-03-31,Gem Pack L,gems,9.99,android,DE
+T0000845,P01461,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0000846,P01461,2024-03-31,Emote Pack,cosmetic,1.99,android,DE
+T0000847,P01461,2024-03-31,Emote Pack,cosmetic,1.99,android,DE
+T0000848,P01461,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,DE
+T0000849,P01461,2024-03-31,Starter Bundle,bundle,2.99,android,DE
+T0000850,P01486,2024-02-11,Starter Bundle,bundle,2.99,android,ID
+T0000851,P01486,2024-02-15,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000852,P01491,2024-02-25,Gem Pack S,gems,0.99,android,ID
+T0000853,P01491,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000854,P01491,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0000855,P01491,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0000856,P01491,2024-03-31,Gem Pack L,gems,9.99,android,ID
+T0000857,P01491,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0000858,P01491,2024-03-28,Legend Skin,cosmetic,7.99,android,ID
+T0000859,P01491,2024-03-31,Emote Pack,cosmetic,1.99,android,ID
+T0000860,P01491,2024-02-28,Emote Pack,cosmetic,1.99,android,ID
+T0000861,P01491,2024-02-29,VIP Bundle,bundle,14.99,android,ID
+T0000862,P01491,2024-03-16,Starter Bundle,bundle,2.99,android,ID
+T0000863,P01491,2024-03-24,VIP Bundle,bundle,14.99,android,ID
+T0000864,P01491,2024-03-21,Gem Pack L,gems,9.99,android,ID
+T0000865,P01491,2024-03-31,VIP Bundle,bundle,14.99,android,ID
+T0000866,P01512,2024-03-31,Rare Skin,cosmetic,3.99,ios,FR
+T0000867,P01524,2024-02-06,Gem Pack XL,gems,19.99,android,ID
+T0000868,P01524,2024-03-08,Rare Skin,cosmetic,3.99,android,ID
+T0000869,P01524,2024-02-20,Starter Bundle,bundle,2.99,android,ID
+T0000870,P01524,2024-03-31,Legend Skin,cosmetic,7.99,android,ID
+T0000871,P01524,2024-03-09,Rare Skin,cosmetic,3.99,android,ID
+T0000872,P01530,2024-02-03,Gem Pack S,gems,0.99,android,BR
+T0000873,P01530,2024-03-10,Legend Skin,cosmetic,7.99,android,BR
+T0000874,P01538,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000875,P01538,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000876,P01538,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000877,P01538,2024-03-24,Legend Skin,cosmetic,7.99,android,US
+T0000878,P01538,2024-03-12,Emote Pack,cosmetic,1.99,android,US
+T0000879,P01538,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000880,P01538,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000881,P01547,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000882,P01547,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0000883,P01547,2024-03-31,Gem Pack L,gems,9.99,android,IN
+T0000884,P01547,2024-03-31,Starter Bundle,bundle,2.99,android,IN
+T0000885,P01547,2024-03-31,Starter Bundle,bundle,2.99,android,IN
+T0000886,P01547,2024-03-31,Gem Pack XL,gems,19.99,android,IN
+T0000887,P01547,2024-03-31,Gem Pack S,gems,0.99,android,IN
+T0000888,P01547,2024-03-31,Legend Skin,cosmetic,7.99,android,IN
+T0000889,P01547,2024-03-31,Rare Skin,cosmetic,3.99,android,IN
+T0000890,P01547,2024-03-31,VIP Bundle,bundle,14.99,android,IN
+T0000891,P01547,2024-03-31,VIP Bundle,bundle,14.99,android,IN
+T0000892,P01547,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0000893,P01561,2024-03-31,Gem Pack M,gems,4.99,ios,BR
+T0000894,P01561,2024-03-31,Emote Pack,cosmetic,1.99,ios,BR
+T0000895,P01561,2024-03-31,Legend Skin,cosmetic,7.99,ios,BR
+T0000896,P01561,2024-03-31,Legend Skin,cosmetic,7.99,ios,BR
+T0000897,P01561,2024-03-28,Stumble Pass Monthly,season_pass,4.99,ios,BR
+T0000898,P01561,2024-03-23,Gem Pack XL,gems,19.99,ios,BR
+T0000899,P01561,2024-03-31,Gem Pack M,gems,4.99,ios,BR
+T0000900,P01561,2024-03-31,Rare Skin,cosmetic,3.99,ios,BR
+T0000901,P01561,2024-03-20,Legend Skin,cosmetic,7.99,ios,BR
+T0000902,P01561,2024-03-31,Rare Skin,cosmetic,3.99,ios,BR
+T0000903,P01561,2024-03-31,Gem Pack XL,gems,19.99,ios,BR
+T0000904,P01561,2024-03-31,Rare Skin,cosmetic,3.99,ios,BR
+T0000905,P01572,2024-02-23,Stumble Pass Monthly,season_pass,4.99,ios,MX
+T0000906,P01573,2024-02-29,Gem Pack M,gems,4.99,ios,TR
+T0000907,P01573,2024-03-11,Legend Skin,cosmetic,7.99,ios,TR
+T0000908,P01573,2024-03-31,Starter Bundle,bundle,2.99,ios,TR
+T0000909,P01573,2024-03-31,Gem Pack S,gems,0.99,ios,TR
+T0000910,P01573,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,TR
+T0000911,P01573,2024-03-31,Legend Skin,cosmetic,7.99,ios,TR
+T0000912,P01573,2024-03-31,Rare Skin,cosmetic,3.99,ios,TR
+T0000913,P01573,2024-03-31,Emote Pack,cosmetic,1.99,ios,TR
+T0000914,P01573,2024-03-31,Legend Skin,cosmetic,7.99,ios,TR
+T0000915,P01573,2024-03-31,Gem Pack XL,gems,19.99,ios,TR
+T0000916,P01573,2024-03-31,Gem Pack L,gems,9.99,ios,TR
+T0000917,P01573,2024-03-01,Gem Pack L,gems,9.99,ios,TR
+T0000918,P01573,2024-02-27,Gem Pack XL,gems,19.99,ios,TR
+T0000919,P01573,2024-03-31,Gem Pack S,gems,0.99,ios,TR
+T0000920,P01578,2024-03-31,Gem Pack S,gems,0.99,android,DE
+T0000921,P01578,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0000922,P01578,2024-01-20,Gem Pack S,gems,0.99,android,DE
+T0000923,P01578,2024-03-16,Legend Skin,cosmetic,7.99,android,DE
+T0000924,P01578,2024-02-23,Rare Skin,cosmetic,3.99,android,DE
+T0000925,P01578,2024-02-26,Starter Bundle,bundle,2.99,android,DE
+T0000926,P01578,2024-03-07,Gem Pack XL,gems,19.99,android,DE
+T0000927,P01578,2024-02-03,Gem Pack S,gems,0.99,android,DE
+T0000928,P01578,2024-02-28,Gem Pack M,gems,4.99,android,DE
+T0000929,P01578,2024-03-27,VIP Bundle,bundle,14.99,android,DE
+T0000930,P01600,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000931,P01600,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0000932,P01600,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000933,P01600,2024-03-31,Rare Skin,cosmetic,3.99,android,US
+T0000934,P01600,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0000935,P01600,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000936,P01600,2024-03-31,VIP Bundle,bundle,14.99,android,US
+T0000937,P01600,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000938,P01600,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000939,P01600,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000940,P01600,2024-03-31,Gem Pack M,gems,4.99,android,US
+T0000941,P01600,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000942,P01600,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000943,P01600,2024-03-31,Emote Pack,cosmetic,1.99,android,US
+T0000944,P01603,2024-03-20,Rare Skin,cosmetic,3.99,android,BR
+T0000945,P01603,2024-01-31,Legend Skin,cosmetic,7.99,android,BR
+T0000946,P01603,2024-03-21,Starter Bundle,bundle,2.99,android,BR
+T0000947,P01603,2024-03-31,Starter Bundle,bundle,2.99,android,BR
+T0000948,P01603,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0000949,P01603,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000950,P01603,2024-02-19,Legend Skin,cosmetic,7.99,android,BR
+T0000951,P01603,2024-03-31,Legend Skin,cosmetic,7.99,android,BR
+T0000952,P01603,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0000953,P01603,2024-03-03,Gem Pack L,gems,9.99,android,BR
+T0000954,P01603,2024-02-01,Starter Bundle,bundle,2.99,android,BR
+T0000955,P01603,2024-02-05,Rare Skin,cosmetic,3.99,android,BR
+T0000956,P01621,2024-03-31,Gem Pack S,gems,0.99,android,US
+T0000957,P01621,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0000958,P01621,2024-02-07,Starter Bundle,bundle,2.99,android,US
+T0000959,P01621,2024-03-25,Emote Pack,cosmetic,1.99,android,US
+T0000960,P01621,2024-03-05,VIP Bundle,bundle,14.99,android,US
+T0000961,P01621,2024-03-20,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000962,P01621,2024-02-23,Legend Skin,cosmetic,7.99,android,US
+T0000963,P01621,2024-03-02,Rare Skin,cosmetic,3.99,android,US
+T0000964,P01628,2024-02-25,Rare Skin,cosmetic,3.99,ios,US
+T0000965,P01628,2024-03-31,Gem Pack L,gems,9.99,ios,US
+T0000966,P01628,2024-03-02,VIP Bundle,bundle,14.99,ios,US
+T0000967,P01628,2024-02-26,VIP Bundle,bundle,14.99,ios,US
+T0000968,P01628,2024-03-31,Legend Skin,cosmetic,7.99,ios,US
+T0000969,P01628,2024-03-31,Legend Skin,cosmetic,7.99,ios,US
+T0000970,P01628,2024-02-29,Gem Pack S,gems,0.99,ios,US
+T0000971,P01628,2024-03-04,Gem Pack M,gems,4.99,ios,US
+T0000972,P01628,2024-03-31,Gem Pack S,gems,0.99,ios,US
+T0000973,P01628,2024-02-16,Rare Skin,cosmetic,3.99,ios,US
+T0000974,P01637,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0000975,P01637,2024-03-17,Legend Skin,cosmetic,7.99,android,US
+T0000976,P01637,2024-02-11,Gem Pack S,gems,0.99,android,US
+T0000977,P01637,2024-02-24,Starter Bundle,bundle,2.99,android,US
+T0000978,P01637,2024-03-23,Stumble Pass Monthly,season_pass,4.99,android,US
+T0000979,P01637,2024-03-19,VIP Bundle,bundle,14.99,android,US
+T0000980,P01637,2024-01-23,Gem Pack M,gems,4.99,android,US
+T0000981,P01637,2024-01-22,Legend Skin,cosmetic,7.99,android,US
+T0000982,P01639,2024-03-30,Gem Pack L,gems,9.99,android,TR
+T0000983,P01639,2024-03-31,Gem Pack L,gems,9.99,android,TR
+T0000984,P01639,2024-03-01,Legend Skin,cosmetic,7.99,android,TR
+T0000985,P01639,2024-03-06,Gem Pack L,gems,9.99,android,TR
+T0000986,P01639,2024-03-21,Legend Skin,cosmetic,7.99,android,TR
+T0000987,P01639,2024-01-15,Legend Skin,cosmetic,7.99,android,TR
+T0000988,P01639,2024-03-05,Starter Bundle,bundle,2.99,android,TR
+T0000989,P01639,2024-03-28,Starter Bundle,bundle,2.99,android,TR
+T0000990,P01639,2024-03-08,Legend Skin,cosmetic,7.99,android,TR
+T0000991,P01639,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0000992,P01663,2024-02-20,Gem Pack M,gems,4.99,android,IN
+T0000993,P01663,2024-02-29,Starter Bundle,bundle,2.99,android,IN
+T0000994,P01666,2024-03-31,VIP Bundle,bundle,14.99,ios,US
+T0000995,P01666,2024-03-31,VIP Bundle,bundle,14.99,ios,US
+T0000996,P01666,2024-03-31,Legend Skin,cosmetic,7.99,ios,US
+T0000997,P01666,2024-03-31,Gem Pack S,gems,0.99,ios,US
+T0000998,P01666,2024-03-31,Gem Pack M,gems,4.99,ios,US
+T0000999,P01666,2024-03-31,Legend Skin,cosmetic,7.99,ios,US
+T0001000,P01666,2024-03-31,Gem Pack S,gems,0.99,ios,US
+T0001001,P01666,2024-03-31,Gem Pack XL,gems,19.99,ios,US
+T0001002,P01666,2024-03-24,Emote Pack,cosmetic,1.99,ios,US
+T0001003,P01677,2024-03-27,Gem Pack XL,gems,19.99,android,ID
+T0001004,P01677,2024-02-05,Gem Pack L,gems,9.99,android,ID
+T0001005,P01677,2024-01-28,Gem Pack L,gems,9.99,android,ID
+T0001006,P01677,2024-02-17,Gem Pack S,gems,0.99,android,ID
+T0001007,P01677,2024-03-10,Emote Pack,cosmetic,1.99,android,ID
+T0001008,P01677,2024-01-31,VIP Bundle,bundle,14.99,android,ID
+T0001009,P01677,2024-02-23,Gem Pack L,gems,9.99,android,ID
+T0001010,P01677,2024-01-19,Gem Pack M,gems,4.99,android,ID
+T0001011,P01677,2024-03-21,Gem Pack S,gems,0.99,android,ID
+T0001012,P01677,2024-02-29,Rare Skin,cosmetic,3.99,android,ID
+T0001013,P01677,2024-03-17,Emote Pack,cosmetic,1.99,android,ID
+T0001014,P01681,2024-03-22,Legend Skin,cosmetic,7.99,android,FR
+T0001015,P01681,2024-01-22,Emote Pack,cosmetic,1.99,android,FR
+T0001016,P01681,2024-03-16,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0001017,P01681,2024-03-14,Legend Skin,cosmetic,7.99,android,FR
+T0001018,P01706,2024-03-31,Gem Pack M,gems,4.99,android,DE
+T0001019,P01706,2024-03-14,Starter Bundle,bundle,2.99,android,DE
+T0001020,P01706,2024-02-24,VIP Bundle,bundle,14.99,android,DE
+T0001021,P01706,2024-03-21,VIP Bundle,bundle,14.99,android,DE
+T0001022,P01706,2024-03-31,Starter Bundle,bundle,2.99,android,DE
+T0001023,P01706,2024-03-23,Rare Skin,cosmetic,3.99,android,DE
+T0001024,P01706,2024-01-19,Gem Pack M,gems,4.99,android,DE
+T0001025,P01706,2024-02-15,VIP Bundle,bundle,14.99,android,DE
+T0001026,P01737,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0001027,P01737,2024-03-31,Legend Skin,cosmetic,7.99,android,US
+T0001028,P01737,2024-03-25,Rare Skin,cosmetic,3.99,android,US
+T0001029,P01737,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0001030,P01737,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0001031,P01737,2024-03-07,Emote Pack,cosmetic,1.99,android,US
+T0001032,P01737,2024-03-31,Gem Pack L,gems,9.99,android,US
+T0001033,P01737,2024-03-31,Gem Pack XL,gems,19.99,android,US
+T0001034,P01737,2024-03-24,Gem Pack L,gems,9.99,android,US
+T0001035,P01737,2024-03-24,Gem Pack M,gems,4.99,android,US
+T0001036,P01737,2024-02-26,Emote Pack,cosmetic,1.99,android,US
+T0001037,P01737,2024-02-24,VIP Bundle,bundle,14.99,android,US
+T0001038,P01737,2024-03-31,Starter Bundle,bundle,2.99,android,US
+T0001039,P01740,2024-01-26,Emote Pack,cosmetic,1.99,ios,PH
+T0001040,P01740,2024-03-15,VIP Bundle,bundle,14.99,ios,PH
+T0001041,P01740,2024-01-27,Gem Pack M,gems,4.99,ios,PH
+T0001042,P01740,2024-03-30,Gem Pack XL,gems,19.99,ios,PH
+T0001043,P01741,2024-03-04,Emote Pack,cosmetic,1.99,ios,MX
+T0001044,P01741,2024-03-31,Gem Pack XL,gems,19.99,ios,MX
+T0001045,P01741,2024-02-06,VIP Bundle,bundle,14.99,ios,MX
+T0001046,P01741,2024-03-30,Gem Pack S,gems,0.99,ios,MX
+T0001047,P01741,2024-03-16,Gem Pack M,gems,4.99,ios,MX
+T0001048,P01741,2024-03-03,Gem Pack M,gems,4.99,ios,MX
+T0001049,P01741,2024-03-31,Legend Skin,cosmetic,7.99,ios,MX
+T0001050,P01741,2024-03-31,VIP Bundle,bundle,14.99,ios,MX
+T0001051,P01741,2024-02-11,Stumble Pass Monthly,season_pass,4.99,ios,MX
+T0001052,P01741,2024-03-06,Stumble Pass Monthly,season_pass,4.99,ios,MX
+T0001053,P01741,2024-02-07,Legend Skin,cosmetic,7.99,ios,MX
+T0001054,P01741,2024-03-31,Starter Bundle,bundle,2.99,ios,MX
+T0001055,P01741,2024-03-31,Gem Pack S,gems,0.99,ios,MX
+T0001056,P01748,2024-02-23,Gem Pack M,gems,4.99,android,MX
+T0001057,P01748,2024-02-11,VIP Bundle,bundle,14.99,android,MX
+T0001058,P01789,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,IN
+T0001059,P01789,2024-03-31,Gem Pack M,gems,4.99,ios,IN
+T0001060,P01789,2024-03-31,Emote Pack,cosmetic,1.99,ios,IN
+T0001061,P01789,2024-03-31,Gem Pack L,gems,9.99,ios,IN
+T0001062,P01789,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,IN
+T0001063,P01789,2024-03-31,Starter Bundle,bundle,2.99,ios,IN
+T0001064,P01789,2024-03-31,Starter Bundle,bundle,2.99,ios,IN
+T0001065,P01789,2024-03-31,Starter Bundle,bundle,2.99,ios,IN
+T0001066,P01789,2024-03-31,Gem Pack XL,gems,19.99,ios,IN
+T0001067,P01789,2024-03-31,Legend Skin,cosmetic,7.99,ios,IN
+T0001068,P01789,2024-03-31,Starter Bundle,bundle,2.99,ios,IN
+T0001069,P01792,2024-03-01,Emote Pack,cosmetic,1.99,android,IN
+T0001070,P01792,2024-03-29,Gem Pack M,gems,4.99,android,IN
+T0001071,P01792,2024-03-08,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0001072,P01792,2024-03-31,Gem Pack XL,gems,19.99,android,IN
+T0001073,P01792,2024-03-15,Legend Skin,cosmetic,7.99,android,IN
+T0001074,P01792,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0001075,P01792,2024-03-31,Gem Pack S,gems,0.99,android,IN
+T0001076,P01792,2024-03-23,Rare Skin,cosmetic,3.99,android,IN
+T0001077,P01792,2024-03-31,VIP Bundle,bundle,14.99,android,IN
+T0001078,P01792,2024-03-31,Gem Pack M,gems,4.99,android,IN
+T0001079,P01792,2024-03-18,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0001080,P01792,2024-03-01,Gem Pack XL,gems,19.99,android,IN
+T0001081,P01792,2024-03-31,Gem Pack M,gems,4.99,android,IN
+T0001082,P01835,2024-02-21,Gem Pack S,gems,0.99,android,DE
+T0001083,P01835,2024-03-14,Rare Skin,cosmetic,3.99,android,DE
+T0001084,P01835,2024-03-21,Rare Skin,cosmetic,3.99,android,DE
+T0001085,P01852,2024-03-18,Stumble Pass Monthly,season_pass,4.99,android,TR
+T0001086,P01852,2024-02-27,Starter Bundle,bundle,2.99,android,TR
+T0001087,P01852,2024-03-31,Rare Skin,cosmetic,3.99,android,TR
+T0001088,P01852,2024-03-31,Starter Bundle,bundle,2.99,android,TR
+T0001089,P01852,2024-03-31,Gem Pack L,gems,9.99,android,TR
+T0001090,P01852,2024-03-20,Emote Pack,cosmetic,1.99,android,TR
+T0001091,P01852,2024-03-31,Gem Pack XL,gems,19.99,android,TR
+T0001092,P01852,2024-02-17,VIP Bundle,bundle,14.99,android,TR
+T0001093,P01852,2024-02-16,Starter Bundle,bundle,2.99,android,TR
+T0001094,P01852,2024-03-31,Gem Pack L,gems,9.99,android,TR
+T0001095,P01852,2024-02-28,Starter Bundle,bundle,2.99,android,TR
+T0001096,P01856,2024-03-31,VIP Bundle,bundle,14.99,android,MX
+T0001097,P01856,2024-03-29,Stumble Pass Monthly,season_pass,4.99,android,MX
+T0001098,P01856,2024-03-31,Gem Pack S,gems,0.99,android,MX
+T0001099,P01856,2024-03-08,Legend Skin,cosmetic,7.99,android,MX
+T0001100,P01856,2024-03-31,Gem Pack XL,gems,19.99,android,MX
+T0001101,P01865,2024-03-31,Gem Pack S,gems,0.99,android,FR
+T0001102,P01865,2024-03-31,Gem Pack M,gems,4.99,android,FR
+T0001103,P01865,2024-03-31,Gem Pack XL,gems,19.99,android,FR
+T0001104,P01865,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0001105,P01865,2024-03-03,Gem Pack M,gems,4.99,android,FR
+T0001106,P01865,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,FR
+T0001107,P01865,2024-03-03,Gem Pack L,gems,9.99,android,FR
+T0001108,P01865,2024-03-24,Legend Skin,cosmetic,7.99,android,FR
+T0001109,P01865,2024-03-31,Starter Bundle,bundle,2.99,android,FR
+T0001110,P01865,2024-03-31,Gem Pack XL,gems,19.99,android,FR
+T0001111,P01865,2024-03-09,Emote Pack,cosmetic,1.99,android,FR
+T0001112,P01876,2024-03-31,Rare Skin,cosmetic,3.99,android,DE
+T0001113,P01876,2024-02-23,Stumble Pass Monthly,season_pass,4.99,android,DE
+T0001114,P01876,2024-03-25,Legend Skin,cosmetic,7.99,android,DE
+T0001115,P01876,2024-03-31,Starter Bundle,bundle,2.99,android,DE
+T0001116,P01876,2024-03-31,Gem Pack S,gems,0.99,android,DE
+T0001117,P01884,2024-03-03,Gem Pack L,gems,9.99,ios,US
+T0001118,P01884,2024-03-09,Emote Pack,cosmetic,1.99,ios,US
+T0001119,P01884,2024-03-06,Gem Pack M,gems,4.99,ios,US
+T0001120,P01884,2024-03-16,Starter Bundle,bundle,2.99,ios,US
+T0001121,P01884,2024-03-08,Emote Pack,cosmetic,1.99,ios,US
+T0001122,P01884,2024-03-31,Emote Pack,cosmetic,1.99,ios,US
+T0001123,P01884,2024-02-19,Gem Pack L,gems,9.99,ios,US
+T0001124,P01884,2024-02-13,Gem Pack XL,gems,19.99,ios,US
+T0001125,P01884,2024-03-31,Emote Pack,cosmetic,1.99,ios,US
+T0001126,P01884,2024-01-25,VIP Bundle,bundle,14.99,ios,US
+T0001127,P01899,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,MX
+T0001128,P01899,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,MX
+T0001129,P01899,2024-03-24,Legend Skin,cosmetic,7.99,ios,MX
+T0001130,P01900,2024-03-28,Emote Pack,cosmetic,1.99,android,IN
+T0001131,P01907,2024-02-26,VIP Bundle,bundle,14.99,android,BR
+T0001132,P01907,2024-03-17,Legend Skin,cosmetic,7.99,android,BR
+T0001133,P01907,2024-03-15,Gem Pack L,gems,9.99,android,BR
+T0001134,P01907,2024-03-14,Starter Bundle,bundle,2.99,android,BR
+T0001135,P01907,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0001136,P01907,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,BR
+T0001137,P01907,2024-03-31,VIP Bundle,bundle,14.99,android,BR
+T0001138,P01907,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,BR
+T0001139,P01907,2024-03-31,Gem Pack S,gems,0.99,android,BR
+T0001140,P01907,2024-03-31,Emote Pack,cosmetic,1.99,android,BR
+T0001141,P01907,2024-03-31,Rare Skin,cosmetic,3.99,android,BR
+T0001142,P01907,2024-03-31,Gem Pack XL,gems,19.99,android,BR
+T0001143,P01909,2024-02-25,Gem Pack S,gems,0.99,android,US
+T0001144,P01918,2024-03-31,Gem Pack S,gems,0.99,android,ID
+T0001145,P01918,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0001146,P01918,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0001147,P01918,2024-03-31,Legend Skin,cosmetic,7.99,android,ID
+T0001148,P01918,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,ID
+T0001149,P01918,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0001150,P01933,2024-03-31,Gem Pack XL,gems,19.99,android,DE
+T0001151,P01933,2024-03-10,Starter Bundle,bundle,2.99,android,DE
+T0001152,P01941,2024-03-31,Gem Pack L,gems,9.99,ios,BR
+T0001153,P01941,2024-02-24,Emote Pack,cosmetic,1.99,ios,BR
+T0001154,P01941,2024-03-31,Stumble Pass Monthly,season_pass,4.99,ios,BR
+T0001155,P01941,2024-02-25,Gem Pack M,gems,4.99,ios,BR
+T0001156,P01941,2024-03-31,Rare Skin,cosmetic,3.99,ios,BR
+T0001157,P01941,2024-03-31,Gem Pack L,gems,9.99,ios,BR
+T0001158,P01941,2024-02-20,Rare Skin,cosmetic,3.99,ios,BR
+T0001159,P01941,2024-02-23,Gem Pack M,gems,4.99,ios,BR
+T0001160,P01941,2024-03-29,Gem Pack M,gems,4.99,ios,BR
+T0001161,P01941,2024-03-31,VIP Bundle,bundle,14.99,ios,BR
+T0001162,P01941,2024-03-03,VIP Bundle,bundle,14.99,ios,BR
+T0001163,P01941,2024-03-07,Rare Skin,cosmetic,3.99,ios,BR
+T0001164,P01941,2024-03-01,Legend Skin,cosmetic,7.99,ios,BR
+T0001165,P01941,2024-03-31,Starter Bundle,bundle,2.99,ios,BR
+T0001166,P01942,2024-03-31,Stumble Pass Monthly,season_pass,4.99,android,MX
+T0001167,P01942,2024-03-22,Stumble Pass Monthly,season_pass,4.99,android,MX
+T0001168,P01942,2024-03-31,Rare Skin,cosmetic,3.99,android,MX
+T0001169,P01942,2024-03-31,Gem Pack S,gems,0.99,android,MX
+T0001170,P01942,2024-03-31,Starter Bundle,bundle,2.99,android,MX
+T0001171,P01942,2024-03-31,Gem Pack XL,gems,19.99,android,MX
+T0001172,P01942,2024-03-31,Gem Pack L,gems,9.99,android,MX
+T0001173,P01942,2024-03-31,Gem Pack S,gems,0.99,android,MX
+T0001174,P01942,2024-03-31,VIP Bundle,bundle,14.99,android,MX
+T0001175,P01970,2024-03-31,Emote Pack,cosmetic,1.99,ios,US
+T0001176,P01970,2024-02-25,Gem Pack S,gems,0.99,ios,US
+T0001177,P01970,2024-03-12,Emote Pack,cosmetic,1.99,ios,US
+T0001178,P01973,2024-03-31,Emote Pack,cosmetic,1.99,android,IN
+T0001179,P01973,2024-02-13,Stumble Pass Monthly,season_pass,4.99,android,IN
+T0001180,P01988,2024-03-31,Gem Pack M,gems,4.99,android,ID
+T0001181,P01988,2024-03-31,Rare Skin,cosmetic,3.99,android,ID
+T0001182,P01988,2024-03-17,Legend Skin,cosmetic,7.99,android,ID
+T0001183,P01988,2024-02-14,Gem Pack M,gems,4.99,android,ID
+T0001184,P01988,2024-03-31,Starter Bundle,bundle,2.99,android,ID
+T0001185,P01988,2024-02-09,Legend Skin,cosmetic,7.99,android,ID
+T0001186,P01988,2024-03-08,Gem Pack M,gems,4.99,android,ID
+T0001187,P01988,2024-03-23,Gem Pack XL,gems,19.99,android,ID
+T0001188,P01988,2024-02-06,Gem Pack L,gems,9.99,android,ID
